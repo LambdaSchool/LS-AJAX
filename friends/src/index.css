@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/*
+.App {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.App .friends {
+  width: 60%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.App h1 {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.App h2 {
+  margin-top: 200px;
+  margin-left: 25%;
+}
+.friends-form {
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  flex-flow: column;
+  width: 300px;
+  height: 500px;
+  justify-content: space-around;
+}
+.friends-form input {
+  height: 30px;
+  font-size: 18px;
+  color: black;
+}
+
+.friends-form button {
+  font-size: 18px;
+  height: 40px;
+  background-color: white;
+  border: 1px gray solid;
+}
+
+.friend-container {
+  margin: 0 auto;
+  margin-top: 40px;
+  border: 1px gray solid;
+  width: 40%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin-bottom: 50px;
+} */
