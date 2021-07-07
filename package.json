@@ -11,7 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "build": "yarn --cwd ./friends build",
+    "postinstall": "yarn --cwd ./friends install && yarn --cwd ./friends build"
   },
   "author": "Lambda School",
   "license": "ISC"
